@@ -11,7 +11,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Demonstração](#demonstração) • [Características](#características) • [Instalação](#instalação) • [Uso](#uso) • [Tecnologias](#tecnologias)
+[Demonstração](#-sobre-o-projeto) • [Características](#-características-principais) • [Instalação](#-instalação) • [Uso](#-como-usar) • [Tecnologias](#️-tecnologias-utilizadas)
 
 </div>
 
@@ -19,25 +19,26 @@
 
 ## 📋 Índice
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Características Principais](#características-principais)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Estratégias de Machine Learning](#estratégias-de-machine-learning)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Algoritmos Implementados](#algoritmos-implementados)
-- [Validação Anti-Duplicação](#validação-anti-duplicação)
-- [Exportação de Dados](#exportação-de-dados)
-- [Interface do Usuário](#interface-do-usuário)
-- [Personalização](#personalização)
-- [Limitações](#limitações)
-- [Roadmap](#roadmap)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Contato](#contato)
-- [Agradecimentos](#agradecimentos)
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Características Principais](#-características-principais)
+- [Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+- [Pré-requisitos](#-pré-requisitos)
+- [Instalação](#-instalação)
+- [Como Usar](#-como-usar)
+- [Estratégias de Machine Learning](#-estratégias-de-machine-learning)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Algoritmos Implementados](#-algoritmos-implementados)
+- [Validação Anti-Duplicação](#️-validação-anti-duplicação)
+- [Exportação de Dados](#-exportação-de-dados)
+- [Interface do Usuário](#-interface-do-usuário)
+- [Personalização](#️-personalização)
+- [Limitações](#️-limitações)
+- [Roadmap](#️-roadmap)
+- [Contribuindo](#-contribuindo)
+- [Licença](#-licença)
+- [Contato](#-contato)
+- [Agradecimentos](#-agradecimentos)
+- [FAQ](#-faq-perguntas-frequentes)
 
 ---
 
@@ -184,7 +185,7 @@ Concurso | Bola1 | Bola2 | Bola3 | ... | Bola15
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/lotofacil-ai-pro.git
+git clone https://github.com/NatalSantiago/lotofacil-ai-pro.git
 
 # Entre no diretório
 cd lotofacil-ai-pro
@@ -760,7 +761,7 @@ git push origin feature/MinhaNovaFeature
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob a **Licença MIT** - veja o arquivo LICENSE para detalhes.
 
 ```
 MIT License
@@ -794,15 +795,37 @@ SOFTWARE.
 
 - **WhatsApp:** [(99) 9 8444 7141](https://wa.me/5599984447141)
 - **Email:** [natal.santiago.tech@gmail.com](mailto:natal.santiago.tech@gmail.com)
-- **GitHub:** [SantiagoTECH](https://github.com/NatalSantiago)
+- **GitHub:** [NatalSantiago](https://github.com/NatalSantiago)
 
 ### Suporte
 
 Para reportar bugs ou solicitar funcionalidades:
 
-1. Abra uma [Issue](https://github.com/seu-usuario/lotofacil-ai-pro/issues)
+1. Abra uma [Issue](https://github.com/NatalSantiago/lotofacil-ai-pro/issues)
 2. Entre em contato via WhatsApp ou Email
 3. Contribua com um Pull Request
+
+---
+
+## 💖 Apoie este Projeto
+
+Se este projeto foi útil para você, considere fazer uma doação via PIX:
+
+<div align="center">
+
+### 💰 Doação via PIX
+
+**CPF:** 523.741.143-68
+
+![QR Code PIX](https://geradordepix.com.br/qrcode/52374114368/100)
+
+*Escaneie o QR Code acima ou use a chave PIX: 523.741.143-68*
+
+---
+
+**Sua contribuição ajuda a manter este projeto ativo e em constante evolução!**
+
+</div>
 
 ---
 
@@ -836,27 +859,21 @@ Agradecimento especial a todos que contribuíram, testaram e forneceram feedback
 
 ### Artigos Relacionados
 
-- [Machine Learning para Iniciantes](https://www.example.com)
-- [Análise Estatística de Loterias](https://www.example.com)
-- [Design de Interfaces Futuristas](https://www.example.com)
-
-### Vídeos Tutoriais
-
-- [Como Usar o LotoFácil AI Pro](https://www.youtube.com/watch?v=example)
-- [Entendendo as Estratégias de ML](https://www.youtube.com/watch?v=example)
-- [Análise de Resultados](https://www.youtube.com/watch?v=example)
+- [Machine Learning para Iniciantes](https://www.ibm.com/br-pt/topics/machine-learning)
+- [Análise Estatística de Loterias](https://www.loteriascaixa.gov.br)
+- [Design de Interfaces Futuristas](https://www.awwwards.com)
 
 ---
 
 ## 📊 Estatísticas do Projeto
 
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario/lotofacil-ai-pro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/seu-usuario/lotofacil-ai-pro?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/seu-usuario/lotofacil-ai-pro?style=social)
+![GitHub stars](https://img.shields.io/github/stars/NatalSantiago/lotofacil-ai-pro?style=social)
+![GitHub forks](https://img.shields.io/github/forks/NatalSantiago/lotofacil-ai-pro?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/NatalSantiago/lotofacil-ai-pro?style=social)
 
-![GitHub issues](https://img.shields.io/github/issues/seu-usuario/lotofacil-ai-pro)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/seu-usuario/lotofacil-ai-pro)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/lotofacil-ai-pro)
+![GitHub issues](https://img.shields.io/github/issues/NatalSantiago/lotofacil-ai-pro)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/NatalSantiago/lotofacil-ai-pro)
+![GitHub last commit](https://img.shields.io/github/last-commit/NatalSantiago/lotofacil-ai-pro)
 
 ---
 
@@ -900,7 +917,7 @@ Não há uma "melhor" estratégia. Cada uma tem sua abordagem. Recomendamos test
 
 ### 10. Posso contribuir com o projeto?
 
-Sim! Contribuições são muito bem-vindas. Veja a seção [Contribuindo](#contribuindo) para mais detalhes.
+Sim! Contribuições são muito bem-vindas. Veja a seção [Contribuindo](#-contribuindo) para mais detalhes.
 
 ---
 
@@ -909,6 +926,8 @@ Sim! Contribuições são muito bem-vindas. Veja a seção [Contribuindo](#contr
 **Desenvolvido com ❤️ por [SantiagoTECH](https://github.com/NatalSantiago)**
 
 ⭐ Se este projeto foi útil, considere dar uma estrela!
+
+💰 Apoie via PIX: **523.741.143-68**
 
 [⬆ Voltar ao topo](#-lotofácil-ai-pro)
 
