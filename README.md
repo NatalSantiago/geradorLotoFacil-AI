@@ -817,7 +817,7 @@ Se este projeto foi útil para você, considere fazer uma doação via PIX:
 
 **CPF:** 523.741.143-68
 
-![QR Code PIX](https://geradordepix.com.br/qrcode/52374114368/100)
+![Captura de Tela](qrcode_pix.png)
 
 *Escaneie o QR Code acima ou use a chave PIX: 523.741.143-68*
 
