@@ -792,9 +792,9 @@ SOFTWARE.
 
 ### SantiagoTECH - Soluções em Tecnologia
 
-- **WhatsApp:** [(63) 9 9225-9154](https://wa.me/5563992259154)
+- **WhatsApp:** [(99) 9 8444 7141](https://wa.me/5599984447141)
 - **Email:** [natal.santiago.tech@gmail.com](mailto:natal.santiago.tech@gmail.com)
-- **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
+- **GitHub:** [@seu-usuario](https://github.com/NatalSantiago)
 
 ### Suporte
 
