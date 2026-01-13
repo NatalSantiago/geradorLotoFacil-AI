@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![LotoFácil AI Pro](https://i.ibb.co/tp5hZHVn/Loto-Facil-IA-Expert.png)
+![LotoFácil AI Pro](Logo.png)
 
 **Gerador Inteligente de Jogos com Machine Learning Avançado**
 
